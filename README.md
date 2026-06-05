@@ -54,7 +54,7 @@ f1_physics_engine/
 **1. Clone and enter the repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/f1-physics-engine.git
+git clone https://github.com/maahipatel05/f1-physics-engine.git
 cd f1-physics-engine
 ```
 
@@ -279,3 +279,7 @@ MIT — see [LICENSE](LICENSE).
 - [fastf1](https://docs.fastf1.dev/) — open-source F1 telemetry
 - [PEFT](https://github.com/huggingface/peft) — HuggingFace LoRA
 - [Diffusers](https://github.com/huggingface/diffusers) — HuggingFace
+
+---
+
+Built by [Maahi Patel](https://github.com/maahipatel05) and [Jinay Shah](https://github.com/Jinay2205)
